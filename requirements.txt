@@ -9,10 +9,12 @@ asyncio==3.4.3
 
 # Data processing and analysis
 pandas==1.5.3
-numpy==1.24.2
+numpy
 
 # Data visualization
 matplotlib==3.6.2
 
 # Scheduling tasks
 schedule==1.1.0
+
+python-dotenv

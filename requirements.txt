@@ -1,20 +1,10 @@
-# API interface and HTTP requests
-requests==2.28.1
-
-# WebSocket support for real-time data streaming
-websockets==10.3
-
-# Asynchronous I/O
 asyncio==3.4.3
-
-# Data processing and analysis
-pandas==1.5.3
-numpy
-
-# Data visualization
 matplotlib==3.6.2
-
-# Scheduling tasks
-schedule==1.1.0
-
+numpy
+pandas==1.5.3
 python-dotenv
+requests==2.28.1
+schedule==1.1.0
+selenium
+webdriver_manager
+websockets==10.3

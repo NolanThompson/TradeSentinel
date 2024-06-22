@@ -1,3 +1,4 @@
 [submodule "Schwab-API-Python"]
 	path = Schwab-API-Python
 	url = https://github.com/tylerebowers/Schwab-API-Python
+	branch = TradeSentinel

@@ -8,3 +8,10 @@ schedule==1.1.0
 selenium
 webdriver_manager
 websockets==10.3
+yfinance
+ta
+xgboost
+scikit-learn
+joblib
+sys
+json

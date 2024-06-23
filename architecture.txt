@@ -1,0 +1,21 @@
+nonfunctional requirements:
+make day trades on stocks
+buy in criteria - 
+    1. up at least 20% on the day
+    2. has a retracement that does not 
+        - exceed 50% of the gain
+        - pull back past the weighted average moving price
+    3. positive on the macd
+    4. candles poised for breakout
+sell criteria -
+    1. sell full position at low of previous candle before breakout (stop loss)
+    2. sell 50% of position at 5% trailing stop loss
+    3. sell 50% of position at 10% profit target price
+    - macd goes negative
+read candle information
+
+functional requirements:
+stream live information about stocks
+    - price
+    - weighted average moving price
+    - 
